@@ -32,10 +32,22 @@ Our strengths
 
 \- Zero environmental impact project
 
+ㅤ
+
+ㅤ
+
 Our collaborators
 -----------------
 
+\- Founder - @monnyz7w7 
 
+\- Full-stack Dev - @carlopaa  
+
+\- Discord Bot Dev - @NamTheDev 
+
+ㅤ
+
+ㅤ
 
 Our contacts
 ------------
@@ -45,3 +57,7 @@ Our contacts
 \- [Volunteer site](https://safe.monnycraft.com/s/volontari/it)
 
 \- [Project FAQs](https://safe.monnycraft.com/s/FAQs/it)
+
+ㅤ
+
+ㅤ

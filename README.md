@@ -57,7 +57,3 @@ Our contacts
 \- [Volunteer site](https://safe.monnycraft.com/s/volontari/it)
 
 \- [Project FAQs](https://safe.monnycraft.com/s/FAQs/it)
-
-ㅤ
-
-ㅤ

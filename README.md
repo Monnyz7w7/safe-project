@@ -39,11 +39,11 @@ Our strengths
 Our collaborators
 -----------------
 
-\- Founder - @monnyz7w7 
+\- Founder - [@monnyz7w7](https://github.com/Monnyz7w7) 
 
-\- Full-stack Dev - @carlopaa  
+\- Full-stack Dev - [@carlopaa](https://github.com/carlopaa)  
 
-\- Discord Bot Dev - @NamTheDev 
+\- Discord Bot Dev - [@NamTheDev](https://github.com/NamTheDev) 
 
 ㅤ
 

@@ -1,16 +1,16 @@
-# Safe Project
+# INSTALLATION GUIDE
 
 ## Getting Started
 How to run in your local development server.
 
 1. Go to your project folder where your local development is and clone this repo using your command line
 ```
-git clone git@github.com:carlopaa/safe-monnycraft.git
+git clone git@github.com:monnyz7w7/safe-project.git
 ```
 
 2. Go to your newly created project
 ```
-cd safe-monnycraft
+cd safe-project
 ```
 
 3. Install dependencies needed
